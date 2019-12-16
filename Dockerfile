@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server:v0.3.3-arm64
+FROM staging-k8s.gcr.io/metrics-server-arm64:v0.3.3
